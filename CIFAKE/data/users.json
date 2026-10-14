@@ -1,0 +1,79 @@
+{
+  "admin": {
+    "username": "admin",
+    "name": "Administrator",
+    "email": "admin@cifake.ai",
+    "mobile": "+1-800-555-0199",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+  },
+  "researcher": {
+    "username": "researcher",
+    "name": "Dr. AI Forensics",
+    "email": "research@cifake.org",
+    "mobile": "+1-555-432-8765",
+    "password_hash": "a51a171c61e71dd3dfab3b27dfe5990efff51cad390a7170ff740fc096db258f"
+  },
+  "testuser": {
+    "username": "testuser",
+    "name": "Test Person",
+    "email": "test@example.com",
+    "mobile": "1234567890",
+    "password_hash": "fcf730b6d95236ecd3c9fc2d92d7b6b2bb061514961aec041d6c7a7192f592e4"
+  },
+  "testuser_9695": {
+    "username": "testuser_9695",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_5053": {
+    "username": "testuser_5053",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_5139": {
+    "username": "testuser_5139",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_1580": {
+    "username": "testuser_1580",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_2717": {
+    "username": "testuser_2717",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_9384": {
+    "username": "testuser_9384",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_8370": {
+    "username": "testuser_8370",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  },
+  "testuser_5755": {
+    "username": "testuser_5755",
+    "name": "Unit Tester",
+    "email": "tester@example.com",
+    "mobile": "+1234567890",
+    "password_hash": "b55c8792d1ce458e279308835f8a97b580263503e76e1998e279703e35ad0c2e"
+  }
+}
